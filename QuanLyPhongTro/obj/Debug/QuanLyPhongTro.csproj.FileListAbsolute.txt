@@ -1,0 +1,48 @@
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.formAddRoom.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChangeTienPhong.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDoiDienNuoc.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Form1.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.formAddRoom.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChangeTienPhong.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDoiDienNuoc.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\NAM\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Form1.resources
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.formAddRoom.resources
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChangeTienPhong.resources
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDoiDienNuoc.resources
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormGioiThieu.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Form1.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.formAddRoom.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormChangeTienPhong.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormDoiDienNuoc.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.FormGioiThieu.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+E:\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
